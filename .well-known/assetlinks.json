@@ -5,7 +5,8 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.flair.app",
-      "sha256_cert_fingerprints":
-      ["ec:90:26:ed:7f:f1:9a:af:82:b9:38:a6:d6:d4:5b:f4:2f:0e:9f:d3:03:33:e0:90:18:12:39:b8:ca:c2:e1:fc"]
+      "sha256_cert_fingerprints": [
+        "EC:90:26:ED:7F:F1:9A:AF:82:B9:38:A6:D6:D4:5B:F4:2F:0E:9F:D3:03:33:E0:90:18:12:39:B8:CA:C2:E1:FC"
+        ]
     }
   }]

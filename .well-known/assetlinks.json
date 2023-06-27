@@ -1,0 +1,11 @@
+
+
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.flair.app",
+      "sha256_cert_fingerprints":
+      ["ec:90:26:ed:7f:f1:9a:af:82:b9:38:a6:d6:d4:5b:f4:2f:0e:9f:d3:03:33:e0:90:18:12:39:b8:ca:c2:e1:fc"]
+    }
+  }]
